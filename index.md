@@ -1,10 +1,3 @@
-<div style="
-  padding:100px 20px;
-  background:linear-gradient(135deg,#0f172a,#1e293b,#111827);
-  color:white;
-  border-radius:15px;
-">
-
 # **Welcome to Physics With Code**
 
 <p align="center">
@@ -50,4 +43,3 @@ Learning scientific programming helps students solve complex mathematical and ph
 - [Practise Sheet](Practisesheet/index.md)
 - [Numerical Method](Numericalmethod/index.md)
 - [Physics Projects](Physicsprojects/index.md)
-</div>
