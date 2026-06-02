@@ -1,7 +1,7 @@
 # **Welcome to Physics With Code**
 
 <p align="center">
-    <img src="indexim2.jpg" width=450>
+    <img src="Images\indexim2.jpg" width=450>
  </p>
 
 This website is designed for students who want to learn computational tools used in Physics and scientific computing.
