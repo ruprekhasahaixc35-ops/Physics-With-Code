@@ -1,11 +1,9 @@
 # Physics-With-Code
-# PhysCode Lab
 
 A computational physics and scientific computing website for students.
 
 ## Topics Covered
-- Python for Physics
-- C++ Simulations
+- Python 
 - Mathematica Tutorials
 - Numerical Methods
 - Graph Plotting
